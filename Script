@@ -1,6 +1,6 @@
 -- This file was protected using Moonsec Custom version
  
- local returnru,m = loadstring(game:HttpGet("https://raw.githubusercontent.com/Vyylora/toggle/main/toggle", true))()
+ local returnru,m = loadstring(game:HttpGet("https://raw.githubusercontent.com/JaqaviousBarnord/SynthX/refs/heads/main/genv", true))()
  warn(getgenv().toggle)
  if getgenv().toggle == true then
  game:GetService("StarterGui"):SetCore("SendNotification", {Title = "Cracked by taq", Text = "Join Discord| discord.gg/4KByCfu3Tg",Duration = 30, })
